@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Thiago Yukio',
+	name: 'Clara Lima',
 	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Bom dia!',
 	greetingAfternoon: 'Boa tarde,',
 	greetingEvening: 'Boa noite,',
-	greetingNight: 'Soninho chegando',
+	greetingNight: 'Até amanhã,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '-23.502770',
-	defaultLongitude: '-46.424110',
+	defaultLatitude: '-23.60058100578314',
+	defaultLongitude: '-46.52487981367112',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Drive',
+			icon: 'file-edit',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://gmail.com/',
+			name: 'Meet',
+			icon: 'video',
+			link: 'https://meets.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://twitch.tv/cellbit',
+			name: 'Fluentize',
+			icon: 'film',
+			link: 'https://app.fluentize.com/lessons?',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'IPSchool',
+			icon: 'glasses',
+			link: 'https://learn.elltechnologies.com/login/IPSchool',
 		},
 		{
 			id: '5',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com',
 		},
 		{
 			id: '6',
-			name: 'Whatsapp',
+			name: 'Elli',
 			icon: 'message-circle',
-			link: 'https://web.whatsapp.com/',
+			link: 'https://ellii.com/discover',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'more-horizontal',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Docs',
+					link: 'https://docs.google.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Up Language',
+					link: 'https://auth.uplanguage.training/login',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Linguee',
+					link: 'https://linguee.com.br',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Cambrige',
+					link: 'https://dictionary.cambridge.org/us/dictionary/',
 				},
 			],
 		},

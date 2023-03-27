@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Meet',
 			icon: 'video',
-			link: 'https://meets.google.com/',
+			link: 'https://meet.google.com/',
 		},
 		{
 			id: '3',

@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Gmail',
+					link: 'https://mail.google.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Template',
+					link: 'https://docs.google.com/document/d/1N2cz6HcyeHi9GtCo5aSN8-Hnw5iEyZGbmHnPRIJ8okU/edit',
 				},
 				{
 					name: 'Trello',
